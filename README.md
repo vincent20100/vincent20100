@@ -1,6 +1,6 @@
 👋 Hi, I’m @vincent20100
 
-I am a simple hobbyist, and i play with some hardware like arduino and other expansion board
+I am a simple hobbyist, and I play with some hardware like arduino and other expansion board
 
 <!---
 vincent20100/vincent20100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
